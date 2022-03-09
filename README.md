@@ -7,10 +7,10 @@
 Для сдачи задания необходимо создать репозиторий с несколькими коммитами в master. Далее необходимо описать команды/действия, которые приведения репозитория в актуальное состояние. 
 
 Действия:
-**git branch develop
+**git branch develop**
 
-**git reset HEAD~<num_commits_to_separate>
+**git reset HEAD~<num_commits_to_separate>**
 
-**git push -f origin main
+**git push -f origin main**
 
-**git push origin develop
+**git push origin develop**
